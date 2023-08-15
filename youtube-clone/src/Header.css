@@ -21,6 +21,7 @@
     align-items: center;
     width: 40%;
     border: 1px solid lightgray;
+
 }
 .header__icons{
     display:flex;
@@ -29,7 +30,8 @@
 
 .header__input > input {
     flex: 1;
-    border: none;
+    border-color: turquoise;
+    
 }
 .header__inputButton {
     width: 50px !important;  
